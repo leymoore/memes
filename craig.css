@@ -1,0 +1,32 @@
+body {
+    background-image: url("img/pepe.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+}
+
+h1{
+    color: white;
+    font-family: 'Slackey',cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: 'Expletus Sans', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+  max-width: 100%;
+  padding: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
